@@ -529,7 +529,7 @@ void play_loser(void)
 }
 
 
-// Show an "attract mode" display while waiting for user to press button.
+// Show a display while waiting for user to press button
 
 void attractMode(void)
 
